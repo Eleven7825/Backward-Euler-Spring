@@ -1,3 +1,5 @@
+% This program is originally created by Charles S. Peskin as part of his pedagogical material
+
 function [kmax,lmax,X,jj,kk,S,D,Rzero,M] = ...
 wheel(r,a,n,M_rim,M_axle,S_rim,D_rim,S_spoke,D_spoke,S_axle,D_axle)
 
