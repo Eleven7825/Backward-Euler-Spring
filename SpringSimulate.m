@@ -5,7 +5,7 @@ createWheel
 
 % constants 
 Tfinal = 10;
-% dt = 1e-3;
+dt = 1e-3;
 t = 0;
 X = X0;
 U = U0;
